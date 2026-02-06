@@ -160,7 +160,7 @@ Gracefully terminates the application.
 📸 **Screenshot — Exit Message**
 ---
 
-![](goodbyepng)
+![](goodbye.png)
 
 
 ---
