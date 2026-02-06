@@ -229,15 +229,11 @@ It serves as a strong example of early-stage software engineering capability and
 * Unit testing framework
 * Performance optimizations
 
----
 
-## 📜 License
-
-This project is released under the MIT License.
 
 ---
 
-## 👤 Author
+## 👤 Author 
 
 Developed as part of a Python learning portfolio project focused on building strong programming foundations.
 
