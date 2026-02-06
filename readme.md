@@ -194,15 +194,15 @@ python project4.py
 ```
 ├── project4.py
 ├── README.md
-└── screenshots/
- 	-menu.png
-	-data_summary.png
-	-dataset.png
-	-factorial.png
-	-goodbye.png
-	-input_data.png
-	-lambda_function
-	-sort.png
+├── menu.png
+├── data_summary.png
+├── dataset.png
+├── factorial.png
+├── goodbye.png
+├── input_data.png
+├── lambda_function
+├── sort.png
+
 ```
 
 ---
