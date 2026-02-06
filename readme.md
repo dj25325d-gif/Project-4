@@ -63,10 +63,9 @@ flowchart TD
 The program runs in a continuous loop, allowing users to perform multiple operations without restarting the application. Each menu option maps to a specific Python concept.
 
 📸 **Screenshot — Main Menu**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](menu.png)
 
 ---
 
@@ -80,10 +79,10 @@ Users can input either:
 The dataset is normalized internally for efficient processing.
 
 📸 **Screenshot — Input Dataset**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](input_data.png)
+
 
 ---
 
@@ -98,10 +97,10 @@ Generates a quick statistical overview using Python built-in functions:
 * Average
 
 📸 **Screenshot — Data Summary**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](data_summary.png)
+
 
 ---
 
@@ -110,10 +109,10 @@ Generates a quick statistical overview using Python built-in functions:
 Demonstrates recursion by computing factorial values through self-calling functions.
 
 📸 **Screenshot — Factorial Calculation**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](factorial.png)
+
 
 ---
 
@@ -122,10 +121,10 @@ Demonstrates recursion by computing factorial values through self-calling functi
 Applies functional programming techniques using lambda expressions to filter dataset values based on user-defined thresholds.
 
 📸 **Screenshot — Filtered Output**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](lambda_function.png)
+
 
 ---
 
@@ -135,9 +134,10 @@ Implements ascending and descending sorting using Python’s built-in sorting me
 
 📸 **Screenshot — Sorted Data**
 
-```
-[Insert Screenshot Here]
-```
+---
+
+![](sort.png)
+
 
 ---
 
@@ -146,10 +146,10 @@ Implements ascending and descending sorting using Python’s built-in sorting me
 Performs structured statistical analysis using reusable helper functions.
 
 📸 **Screenshot — Dataset Statistics**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](dataset.png)
+
 
 ---
 
@@ -158,10 +158,10 @@ Performs structured statistical analysis using reusable helper functions.
 Gracefully terminates the application.
 
 📸 **Screenshot — Exit Message**
+---
 
-```
-[Insert Screenshot Here]
-```
+![](goodbyepng)
+
 
 ---
 
